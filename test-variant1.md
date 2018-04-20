@@ -1,4 +1,6 @@
+  
   private static class MaximalInd {
+  
         private int maxValue;
         private int maxIndex;
         public MaxElement(final int maxValue, final int maxIndex) {
