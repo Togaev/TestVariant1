@@ -24,7 +24,7 @@
         }
 
         System.out.println(Arrays.toString(a));
-        System.out.println("Linear search max value index : " + findIndexOfMaxValueLinearSearch(a));
+        System.out.println(" maximalnii  index : " + findIndexOfMaxValueLinearSearch(a));
 
 
     }
